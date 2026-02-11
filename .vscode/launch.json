@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open INDEX2.HTML",
+            "file": "c:\\Users\\LAB\\Downloads\\SITE\\qgis2web_2026_02_11-12_53_21_781778\\INDEX2.HTML"
+        }
+    ]
+}
